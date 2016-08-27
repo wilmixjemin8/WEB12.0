@@ -12,7 +12,9 @@ formed  with    the  combination  of   C  and  J$   so  we
 called   as  C@   Technology.  It  is  invented   at  year  
 
 2013  by  wilmix  jemin  j.  But   Arrow#  is  invented   at  year  2014.
+
 SYNTAX of C@:
+
 <C@>
 
 <Convert>
@@ -50,7 +52,15 @@ so  it  can   be  used   for  bootloader   construction.
 5. Supports   Pointers
 
 6.  It  includes  all Turbo C  technology   Advantages.
+
 When to use?
 1. C@  is  used   with  JDollar  and  CH$.
 
 2. Arrow#  is   used  only  with  CH$.
+
+Note: C@  and  Arrow#  has  15 modules...
+----
+which  will be mentioned   only  in the  turorial , not here.
+
+
+
