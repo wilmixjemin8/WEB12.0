@@ -3,9 +3,9 @@
 WEB9.0
 ======
 
-C@ and  Arrow#  and  All C type  Section  is  called as new  name  WEB 9.0.
+C@ and  Arrow#  and  All C type  Section  is  called as new  name  WEB 9.0 Programming Languages.
 
-C  Technology   has  no latest   child.   SO  C@    is     
+C P.L  has  no latest   child.   SO  C@    is     
 
 formed  with    the  combination  of   C  and  J$   so  we
 
@@ -38,8 +38,10 @@ SYNTAX of Arrow#:
 </main>
 
 </A#>
+
 MERITS of C@ and ARROW#:
-1. Supports  C  Technology
+===========================
+1. Supports  C 
 
 2. Supports   interaction   with  j$  and  ch$
 
@@ -51,7 +53,7 @@ so  it  can   be  used   for  bootloader   construction.
 
 5. Supports   Pointers
 
-6.  It  includes  all Turbo C  technology   Advantages.
+6.  It  includes  all Turbo C    Advantages.
 
 When to use?
 1. C@  is  used   with  JDollar  and  CH$.
