@@ -7,7 +7,7 @@ C@ and  Arrow#  and  All C type  Section  is  called as new  name  WEB 9.0 Progr
 
 C P.L  has  no latest   child.   SO  C@    is     
 
-formed  with    the  combination  of   C  and  J$   so  we
+formed  with    the  combination  of   C  and  WEB   so  we
 
 called   as  C@   Technology.  It  is  invented   at  year  
 
@@ -43,7 +43,7 @@ MERITS of C@ and ARROW#:
 ===========================
 1. Supports  C 
 
-2. Supports   interaction   with  j$  and  ch$
+2. Supports   interaction   with  WEB  and  JAS
 
 3.  Supports   Most  optimized  code
 
@@ -56,9 +56,9 @@ so  it  can   be  used   for  bootloader   construction.
 6.  It  includes  all Turbo C    Advantages.
 
 When to use?
-1. C@  is  used   with  JDollar  and  CH$.
+1. C@  is  used   with  WEB  and  JAS.
 
-2. Arrow#  is   used  only  with  CH$.
+2. Arrow#  is   used  only  with  JAS.
 
 Note: C@  and  Arrow#  has  15 modules...
 ----
